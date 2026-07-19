@@ -7,3 +7,7 @@
 **Why.** Known collisions exist: SIXNET is an industrial-networking brand (Red Lion Controls) in roughly our product's category, and 6NET was an EU IPv6 research project. A working name keeps momentum; attaching the brand story to it before clearance would be a mistake we can't cheaply undo. Repos and handles rename; HN launches don't.
 
 **Revisit when.** Naming research completes (in progress, due this week).
+
+---
+
+**Update, 2026-07-19 — research complete, decision holds.** The SIXNET mark is live and commercially used (Red Lion product lines, now under HMS Networks) in industrial networking — an adjacent category with real enforcement capacity, so the clearance gate before permanent branding stands. The EU 6NET project is defunct and poses no risk. Open right now: `sixnet.io`, `sixnet.dev`, `6net.dev`, and the `6net` GitHub org; `6net.io` is in pendingDelete and will drop soon; `sixnet.com` is parked and for sale. Recommended cheap insurance (CTO's spend call, ~$50/yr): register the open domains and reserve the GitHub org while we decide.
