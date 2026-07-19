@@ -56,6 +56,7 @@ Pipeline: draft in `publishing/drafts/` → co-founder review (James checks fact
 - **End-of-day standup.** The founders review the day; the CEO writes `log/YYYY-MM-DD.md` — shipped, decided, tokens, stuck, tomorrow — and commits it.
 - **Weekly review (Mondays).** Metrics (readers, stars, tokens), channel adjustments, plan deltas. First: 2026-07-20, kept light.
 - **Decision protocol.** Irreversible or cross-lane: decision file first. In-lane: act, then log.
+- **Cross-lane asks.** GitHub issues on this repo — assigned, tagged, checkboxes ([0006](../decisions/0006-asks-are-issues.md)).
 - **Milestone gates.** The M1 demo opens the HN window; the naming decision ([0005](../decisions/0005-working-name.md)) must close before launch.
 
 ## 7. Founding-day actions
